@@ -1,5 +1,5 @@
 # SCPSeconcond
-Replication materials for article "Economic conditions affect Support for Prime Minister parties in Scandinavia"
+Replication materials for article "Economic conditions affect Support for Prime Minister parties in Scandinavia". Published in Scandinavian Political Studies.
 
 This repository contains the following files:
 
